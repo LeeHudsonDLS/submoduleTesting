@@ -1,0 +1,4 @@
+[submodule "exampleSubModule"]
+	path = exampleSubModule
+	url = git@github.com:LeeHudsonDLS/exampleSubModule.git
+	branch = main
